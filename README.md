@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based in Seoul, South Korea 🇰🇷
 
-Amateur designer and painter 🎨
+Amateur designer, painter, and film director 🎞️
 
 
 #### ✅ Main Skills
