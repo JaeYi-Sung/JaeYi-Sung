@@ -7,7 +7,7 @@ Amateur designer, painter, and film director 🎞️
 ### ☘️ On Project
 💘 game : https://www.instagram.com/project.coy (insta)
 
-🐋 art film : https://www.instagram.com/io_crew (insta)
+🐋 art film : https://www.instagram.com/io_artcrew (insta)
 <br/><br/> 
 
 ### ✅ Main Skills
