@@ -22,6 +22,8 @@ Amateur designer, painter, and film director 🎞️
 - Java Script
 - ROS
 - SQL
+- JavaScript
+- Thread Programming
 <br/><br/> 
 
 ### 🌝 Enable Domain
