@@ -19,10 +19,9 @@ Amateur designer, painter, and film director 🎞️
 
 ### 🎯 Sub Skills
 - C, C++
-- Java Script
+- JavaScript
 - ROS
 - SQL
-- JavaScript
 - Thread Programming
 <br/><br/> 
 
