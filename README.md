@@ -11,13 +11,24 @@ Amateur designer, painter, and film director 🎞️
 <br/><br/> 
 
 ### ✅ Main Skills
-- Python
-- C#
-- Swift
-- Java
-<br/><br/> 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-93DAFF?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp     
+  <img src="https://img.shields.io/badge/Swift-FFC5D0?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp   
+  <img src="https://img.shields.io/badge/Unity-BDD7F3?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Java-E5DDFF?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
+</p>
+<br/><br/>
+
+
 
 ### 🎯 Sub Skills
+<p align="center"> 
+  <img src="https://img.shields.io/badge/C-FFCFDA?style=flat-square&logo=C&logoColor=white"/></a> &nbsp     
+  <img src="https://img.shields.io/badge/JavaScript-BECDFF?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp   
+  <img src="https://img.shields.io/badge/ROS-AAEBAA?style=flat-square&logo=ROS&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/SQL-ACF3FF?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/ThreadProgramming-AADBFF?style=flat-square&logo=Thread&logoColor=white"/></a> &nbsp 
+</p>
 - C, C++
 - JavaScript
 - ROS
