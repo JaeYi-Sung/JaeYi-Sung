@@ -29,11 +29,6 @@ Amateur designer, painter, and film director 🎞️
   <img src="https://img.shields.io/badge/SQL-ACF3FF?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/ThreadProgramming-AADBFF?style=flat-square&logo=Thread&logoColor=white"/></a> &nbsp 
 </p>
-- C, C++
-- JavaScript
-- ROS
-- SQL
-- Thread Programming
 <br/><br/> 
 
 ### 🌝 Enable Domain
