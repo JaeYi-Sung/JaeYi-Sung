@@ -5,7 +5,7 @@ I'm a Software Engineer based in Seoul, South Korea 🇰🇷!
 Also amateur designer, painter, and film director 🎞️
 
 #### ☘️ On Project
-💘 game : https://www.instagram.com/project.coy (insta)
+💘 game : Project.COY   <img src="https://img.shields.io/badge/Project COY-93DAFF?style=plastic-square&logo=instagram&&link=https://www.instagram.com/project.coy&logoColor=white"/>
 
 🐋 art film : https://www.instagram.com/io_artcrew (insta)
 <br/><br/>
