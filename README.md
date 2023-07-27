@@ -7,7 +7,7 @@ Also amateur designer, painter, and film director 🎞️
 #### ☘️ On Project
 💘 game : Project.COY   <a href=https://www.instagram.com/project.coy><img src="https://img.shields.io/badge/Project COY-FF3399?style=flat&logo=instagram&&link=https://www.instagram.com/project.coy&logoColor=white"/>
 
-🐋 art film : iO!     <a href= https://www.instagram.com/io_artcrew><img src="https://img.shields.io/badge/ArtCrew iO!-000080?style=flat&logo=instagram&&link=https://www.instagram.com/io_artcrew&logoColor=white"/>
+🐋 art film : Second Wind     <a href= https://www.instagram.com/io_artcrew><img src="https://img.shields.io/badge/ArtCrew iO!-000080?style=flat&logo=instagram&&link=https://www.instagram.com/io_artcrew&logoColor=white"/>
 <br/><br/>
 #### ✅ Main Skills
   <img src="https://img.shields.io/badge/Python-93DAFF?style=plastic-square&logo=Python&logoColor=white"/></a>     
