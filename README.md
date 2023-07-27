@@ -23,10 +23,4 @@ Also amateur designer, painter, and film director 🎞️
   <img src="https://img.shields.io/badge/SQL-ACF3FF?style=plastic-square&logo=Java&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/ThreadProgramming-AADBFF?style=plastic-square&logo=Thread&logoColor=white"/></a>  
 
-#### 🌝 Enable Domain
-- ML (Especially Computer Vision)
-- Generative Model (VAE, GAN, Stable Diffusion)
-- Robotics (ROS 18.04, not for ROS2)
-- AR/VR (Unity, ARKit)
-- Front-end App (iOS)
-- Front-end Web (html + CSS + JS)
+
