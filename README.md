@@ -9,7 +9,8 @@ I'm a Software Engineer based in Seoul, South Korea 🇰🇷!
   <img src="https://img.shields.io/badge/Python-93DAFF?style=plastic-square&logo=Python&logoColor=white"/></a>     
   <img src="https://img.shields.io/badge/Swift-FFC5D0?style=plastic-square&logo=Swift&logoColor=white"/></a>   
   <img src="https://img.shields.io/badge/Unity-BDD7F3?style=plastic-square&logo=Unity&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-E5DDFF?style=plastic-square&logo=Java&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/C#-E5DDFF?style=plastic-square&logo=Java&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Java-00AAFF?style=plastic-square&logo=Java&logoColor=white"/></a> 
 <br/>
 
 #### 🎯 Sub Skills
