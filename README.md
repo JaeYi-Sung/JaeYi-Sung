@@ -13,11 +13,13 @@ And I'm also interested in Web Front & Generative AI and learning it as newbieðŸ
 | Type                | Date             | Contents                                                    | Organization           |   |
 |---------------------|------------------|-------------------------------------------------------------|------------------------|---|
 | Education           |  2017.03 ~ 2023.02 | Major in in ComputerScience Engineering | Ewha Womans University | Summa Cum Laude  |
-| External Activities | 2019.01 ~ 2019.04 |                    Research Intern                  |          Ewha INS Lab         | <img alt="IEEE" src="https://img.shields.io/badge/Paper-007396.svg?style=for-the-badge&logo=IEEE&&link=https://ieeexplore.ieee.org/document/9178811&logoColor=white"/>  |
+| External Activities | 2019.01 ~ 2019.04 |                    Research Intern                  |          Ewha INS Lab         | <img alt="IEEE" src="https://img.shields.io/badge/ACCESS-007396.svg?style=for-the-badge&logo=IEEE&&link=https://ieeexplore.ieee.org/document/9178811&logoColor=white"/>  |
 |  | 2020.03 ~ 2023.02 |                   Game Designer & Programmer                |          Ewha KING (NEXON DREAM MEMBERS)       |  |
 |  |                   2021.06 ~ 2022.06                |          Research Intern       | EWHA Bio-Robotics Lab  |  | 
 
 ### ðŸ’“ Interest & Related Projects
+- Paper
+  - [Towards Persistent Surveillance and Reconnaissance Using a Connected Swarm of Multiple UAVs](https://ieeexplore.ieee.org/document/9178811)
 - AR
   - [EWHA CANVAS](https://github.com/JaeYi-Sung/EwhaCanvas)
 - Robotics
