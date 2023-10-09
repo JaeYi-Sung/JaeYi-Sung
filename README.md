@@ -7,6 +7,8 @@ Hi there! HI I'm JaeYi Sung living in Seoul, South Korea 🇰🇷! </br>
 I'm currently working on AR and Computer Vision as <b>IOS & Unity Developer</b>.</br>
 And I'm also interested in Web Front & Generative AI and learning it as newbie🐣. 
 
+[🍯 Notion](https://juicy-tote-9bb.notion.site/JAEYI-SUNG-eadf82f595e94707acb630ce7aadc438?pvs=4)
+
 
 ### 📈 Career
 
