@@ -8,6 +8,7 @@ I'm currently working on AR and Computer Vision as <b>IOS & Unity Developer</b>.
 And I'm also interested in Web Front & Generative AI and learning it as newbie🐣. 
 
 🍯 Notion [click!](https://juicy-tote-9bb.notion.site/JAEYI-SUNG-eadf82f595e94707acb630ce7aadc438?pvs=4)
+🩵 Tech-Log [Click!](https://i-is-jaeyi.tistory.com/)
 
 
 ### 📈 Career
