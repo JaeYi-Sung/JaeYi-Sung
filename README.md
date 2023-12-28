@@ -41,6 +41,11 @@ And I'm also interested in Web Front & Generative AI and learning it as newbieğŸ
   <img src="https://img.shields.io/badge/Unity-BDD7F3?style=for-the-badge&logo=Unity&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Java-E5DDFF?style=for-the-badge&logo=Java&logoColor=white"/></a> 
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Open3D-93DAFF?style=for-the-badge&logo=Open3D&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/OpenCV-93DAFF?style=for-the-badge&logo=opencv&logoColor=white"/></a> 
+</div>
+
 
 #### ğŸ¯ Sub Skills
 <div>
